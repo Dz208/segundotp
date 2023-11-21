@@ -34,9 +34,10 @@ li a:hover:not(.active) {
 }
 
 body {
-    background: rgb(232,168,255);
-background: linear-gradient(90deg, rgba(232,168,255,1) 0%, rgba(233,205,255,0.7511379551820728) 85%, rgba(243,227,255,1) 100%);
-font-family: Arial, sans-serif;
+    background: rgb(232, 168, 255);
+    background: linear-gradient(90deg, rgba(232, 168, 255, 1) 0%, rgba(233, 205, 255, 0.7511379551820728) 85%, rgba(243, 227, 255, 1) 100%);
+    font-family: Arial, sans-serif;
+    width: 100%; 
 }
 main {
     font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif; 
